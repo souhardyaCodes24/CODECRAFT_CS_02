@@ -59,7 +59,7 @@ You can now open these saved images to see the results! 🖼️🎯
 
 Below is a screenshot of the GUI interface in action, showing image selection, key input, and encryption options. 🤖✨
 ![Screenshot](GUI_SS/gui1.png)
-![Screenshot](HUI_SS/gui2.png)
+![Screenshot](GUI_SS/gui2.png)
 
 ## 👨‍💻 Author
 
