@@ -34,7 +34,7 @@ Welcome to **Image Pixel Manipulator** – a Python-based GUI application that a
 
 4. Click one of the following buttons to perform actions:
 
-5> 🔐 Encrypt – to apply a Caesar cipher-like pixel value shift encryption.
+5. 🔐 Encrypt – to apply a Caesar cipher-like pixel value shift encryption.
 
 6. 🔓 Decrypt – to reverse the pixel shift and retrieve the original image.
 
@@ -49,4 +49,31 @@ Welcome to **Image Pixel Manipulator** – a Python-based GUI application that a
 - encrypted_swap.jpg
 
 You can now open these saved images to see the results! 🖼️🎯
+
+
+---
+
+### 🖼️ GUI Preview (Markdown Only)
+
+## 🖼️ GUI Preview
+
+Below is a screenshot of the GUI interface in action, showing image selection, key input, and encryption options. 🤖✨
+![Screenshot](GUI_SS/gui1.png)
+![Screenshot](HUI_SS/gui2.png)
+
+## 👨‍💻 Author
+
+Created with ❤️ by **Souhardya Saha**
+
+- 🔗 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: your.email@example.com *(optional)*
+- 🧑‍🎓 Passionate about Python, image processing, and user-friendly tools!
+
+## 📃 License
+
+This project is licensed under the **MIT License**.
+
+You're free to use, modify, and distribute this software for any purpose, including commercial applications, under the terms of the MIT license.
+
+
 
